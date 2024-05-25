@@ -2,7 +2,7 @@
 
 Meu nome é Deisiane Bertlini
 
-- stou estudando na [Alura!](https://www.alura.com.br)
+- estou estudando na [Alura!](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
