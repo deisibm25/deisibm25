@@ -1,6 +1,6 @@
 ## _Bem-Vindo ao meu perfil!_ 💓
 
-Meu nome é Deisiane Bertlini
+Meu nome é Deisiane Bertolini
 
 - estou estudando na [Alura!](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
